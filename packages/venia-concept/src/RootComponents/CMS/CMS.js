@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CategoryList from 'src/components/CategoryList';
+import CategoryList from 'src/components/MyAccount';
 
 export default class CMS extends Component {
     render() {
